@@ -17,7 +17,7 @@
 	opacity: 0.6;
 }
 .MMM-Formula1 .flag.grayscale {
-	filter: gray; /* IE6-9 */
+	filter: #cdcdcd; /* IE6-9 */
 	filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
 	-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
 }
